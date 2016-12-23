@@ -1,3 +1,4 @@
+BLALAL
 # What is this?
 This is an example setup of cmake with google test. I got it working after
 consulting the google test primer, among other things. Hopefully it'll help
